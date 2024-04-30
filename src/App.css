@@ -1,4 +1,8 @@
 /* Alineando items en columna dentro de un main*/
+*{
+    color-scheme: light dark;
+}
+
 main{
     display: flex;
     flex-direction: column;
